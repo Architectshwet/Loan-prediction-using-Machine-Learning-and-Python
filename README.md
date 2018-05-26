@@ -2,7 +2,7 @@
 
 ## Aim
 
-Our aim from the project is to make use of pandas, matplotlib, seaborn libraries from python to extract insights from the data.
+Our aim from the project is to make use of pandas, matplotlib, & seaborn libraries from python to extract insights from the data and  xgboost, & scikit-learn libraries for machine learning.
 
 Secondly, to learn how to hypertune the parameters using grid search cross validation for the xgboost machine learning model.
 
